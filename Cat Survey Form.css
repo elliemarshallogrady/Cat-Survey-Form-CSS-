@@ -1,0 +1,9 @@
+body {background-image: url("https://cdn.britannica.com/39/226539-050-D21D7721/Portrait-of-a-cat-with-whiskers-visible.jpg"); background-repeat:no-repeat; background-size: 100% 100%; width: auto; background-blend-mode: lighten; background-color: hsla(210,57%,61%,0.5);}
+#title {color: white; font-family: verdana, sans-serif; text-align: center}
+#description {color: white; font-family: sans-serif; text-align: center}
+#survey-form {color: white; font-family: sans-serif;}
+.info {width: 80%; padding: 50px; background-color: hsla(210,57%,20%,0.5); margin-left: auto; margin-right: auto; max-width:500px;}
+#name, #email, #number, #dropdown, #character {margin-bottom: 10px; padding-left:20px; margin-top:5px}
+#name-label, #email-label, #number-label {font-size:20px; font-weight: bold;}
+.question {font-size:20px; font-weight:bold; margin-bottom:5px}
+#submit {display: block; width: 60%; margin: 1em auto; height: 2em; font-size: 1.1rem; background-color: rgba(68,206,100,0.5); border-color: white; min-width: 300px; color:white;}
